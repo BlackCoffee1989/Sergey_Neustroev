@@ -25,3 +25,4 @@ _________
 - :satellite: Тестирование [API](https://docs.google.com/spreadsheets/d/1cdDHzMiM-hADt7SNnvSheWoWyZ7U6bGpfabUzyiOzSs/edit?usp=sharing) Яндекс Прилавка.
 
 - :scroll: [Дипломный проект](https://docs.google.com/spreadsheets/d/1zcHjgoAQ2nWHTxVAYdClMK5uN2Sq2qrMn7mgE4a5jHg/edit?usp=sharing) по тестированию Яндекс Самокат.
+___
