@@ -26,3 +26,7 @@ _________
 
 - :scroll: [Дипломный проект](https://docs.google.com/spreadsheets/d/1zcHjgoAQ2nWHTxVAYdClMK5uN2Sq2qrMn7mgE4a5jHg/edit?usp=sharing) по тестированию Яндекс Самокат.
 ___
+
+:bookmark_tabs: Сертификаты на Stepik :bookmark_tabs:
+
+ --- ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/1EvcceXYM6_4zppoYfH7R7VxKM1-dhQR-/view?usp=sharing) ---
