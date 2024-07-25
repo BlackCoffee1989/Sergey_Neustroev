@@ -25,6 +25,10 @@ _________
 - :satellite: Тестирование [API](https://docs.google.com/spreadsheets/d/1cdDHzMiM-hADt7SNnvSheWoWyZ7U6bGpfabUzyiOzSs/edit?usp=sharing) Яндекс Прилавка.
 
 - :scroll: [Дипломный проект](https://docs.google.com/spreadsheets/d/1zcHjgoAQ2nWHTxVAYdClMK5uN2Sq2qrMn7mgE4a5jHg/edit?usp=sharing) по тестированию Яндекс Самокат.
+
+---
+
+:computer: Дополнительный курс "Разработка автотестов API на [Python](https://github.com/BlackCoffee1989/api_yandex_first_name_test)" 
 ___
 
 :bookmark_tabs: Сертификаты на Stepik :bookmark_tabs:
