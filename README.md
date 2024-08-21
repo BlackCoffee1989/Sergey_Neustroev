@@ -4,12 +4,7 @@
 :envelope: [t.me](https://t.me/blackcoffe1989)
 
 # Всем привет! :v:
-
-
-
-_________
 ## :computer: Меня зовут Сергей Неустроев и вот мое <a href="https://drive.google.com/file/d/1EgA7QhtojxptJ9liV5UoWBPp594AyEDd/view?usp=sharing" target="_blank">резюме</a>.
-
 ### :memo:В июне 2024 года я закончил курсы [Яндекс Практикум](https://practicum.yandex.ru/) "Инженер по тестированию". [Диплом](https://drive.google.com/file/d/1FEaxwCxaT9ccu4pOscoQc0rT6r_KlaV9/view?usp=sharing)
 
 Тут собрано мое портфолио на основе нескольких проектов, с которыми я работал в рамках курса “Инженер по тестированию”.
