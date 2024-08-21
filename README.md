@@ -29,7 +29,7 @@ _________
 :computer: Дополнительный курс "Разработка автотестов API на [Python](https://github.com/BlackCoffee1989/api_yandex_first_name_test)"
 
 ---
-## :heavy_plus_sign: [Сертификат](https://drive.google.com/file/d/1FuxrHB8UPmURN2aSbqx4_ONzhQRnXvWF/view?usp=sharing) и [Диплом](https://drive.google.com/file/d/1G5qkk3_FfwpBzptrQZT6yviMCI4OloGC/view?usp=sharing) участия в хакатоне Мастерской Яндекс Практикум от КАРДО 
+### :heavy_plus_sign: [Сертификат](https://drive.google.com/file/d/1FuxrHB8UPmURN2aSbqx4_ONzhQRnXvWF/view?usp=sharing) и [Диплом](https://drive.google.com/file/d/1G5qkk3_FfwpBzptrQZT6yviMCI4OloGC/view?usp=sharing) участия в хакатоне Мастерской Яндекс Практикум от КАРДО 
 ___
 
 :bookmark_tabs: Сертификаты на Stepik :bookmark_tabs:
