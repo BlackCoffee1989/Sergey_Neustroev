@@ -8,9 +8,9 @@
 
 
 _________
-### :computer: Меня зовут Сергей Неустроев и вот мое <a href="https://drive.google.com/file/d/1EgA7QhtojxptJ9liV5UoWBPp594AyEDd/view?usp=sharing" target="_blank">резюме</a>.
+## :computer: Меня зовут Сергей Неустроев и вот мое <a href="https://drive.google.com/file/d/1EgA7QhtojxptJ9liV5UoWBPp594AyEDd/view?usp=sharing" target="_blank">резюме</a>.
 
-:memo:В июне 2024 года я закончил курсы [Яндекс Практикум](https://practicum.yandex.ru/) "Инженер по тестированию". [Диплом](https://drive.google.com/file/d/1FEaxwCxaT9ccu4pOscoQc0rT6r_KlaV9/view?usp=sharing)
+### :memo:В июне 2024 года я закончил курсы [Яндекс Практикум](https://practicum.yandex.ru/) "Инженер по тестированию". [Диплом](https://drive.google.com/file/d/1FEaxwCxaT9ccu4pOscoQc0rT6r_KlaV9/view?usp=sharing)
 
 Тут собрано мое портфолио на основе нескольких проектов, с которыми я работал в рамках курса “Инженер по тестированию”.
 
@@ -26,12 +26,10 @@ _________
 
 - :scroll: [Дипломный проект](https://docs.google.com/spreadsheets/d/1zcHjgoAQ2nWHTxVAYdClMK5uN2Sq2qrMn7mgE4a5jHg/edit?usp=sharing) по тестированию Яндекс Самокат.
 
----
-:heavy_plus_sign: [Сертификат](https://drive.google.com/file/d/1FuxrHB8UPmURN2aSbqx4_ONzhQRnXvWF/view?usp=sharing) и [Диплом](https://drive.google.com/file/d/1G5qkk3_FfwpBzptrQZT6yviMCI4OloGC/view?usp=sharing) участия в хакатоне Мастерской Яндекс Практикум от КАРДО 
+:computer: Дополнительный курс "Разработка автотестов API на [Python](https://github.com/BlackCoffee1989/api_yandex_first_name_test)"
 
 ---
-
-:computer: Дополнительный курс "Разработка автотестов API на [Python](https://github.com/BlackCoffee1989/api_yandex_first_name_test)" 
+## :heavy_plus_sign: [Сертификат](https://drive.google.com/file/d/1FuxrHB8UPmURN2aSbqx4_ONzhQRnXvWF/view?usp=sharing) и [Диплом](https://drive.google.com/file/d/1G5qkk3_FfwpBzptrQZT6yviMCI4OloGC/view?usp=sharing) участия в хакатоне Мастерской Яндекс Практикум от КАРДО 
 ___
 
 :bookmark_tabs: Сертификаты на Stepik :bookmark_tabs:
