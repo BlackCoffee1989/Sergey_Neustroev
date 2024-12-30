@@ -30,3 +30,5 @@ ___
 :bookmark_tabs: Сертификаты на Stepik :bookmark_tabs:
 
  --- ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/1EvcceXYM6_4zppoYfH7R7VxKM1-dhQR-/view?usp=sharing) ---
+ --- ["Тестирование ПО: Автоматизация и Программирование на Python. API"](https://drive.google.com/file/d/1452rYd71YnmXasWHXurTzC17XpNX_p4k/view?usp=sharing)
+        --- :arrow_forward: [Проект по тестированию Google Maps API](https://github.com/BlackCoffee1989/test_google_maps_api)
